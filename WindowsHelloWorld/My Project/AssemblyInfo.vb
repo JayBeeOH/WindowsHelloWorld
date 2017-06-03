@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WindowsHelloWorld")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WindowsHelloWorld")>
+<Assembly: AssemblyTitle("Windows Hello World")>
+<Assembly: AssemblyDescription("Classic Windows Hello World app.")>
+<Assembly: AssemblyCompany("Bolen Computers")>
+<Assembly: AssemblyProduct("Windows Hello World")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
 <Assembly: AssemblyTrademark("")>
 
